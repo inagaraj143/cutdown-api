@@ -1,0 +1,42 @@
+{
+    "basicInfo": {
+        "title": "",
+        "description": "",
+        "lengthInSeconds": 0,
+        "viewCount": 0,
+        "category": "",
+        "publishedDate": "",
+        "channelName": "",
+        "averageRating": 0,
+        "likes": 0,
+        "dislikes": 0,
+        "ageRestricted": true,
+        "thumbnails": {},
+        "owner": {
+            "name": "",
+            "username": "",
+            "channelUrl": "",
+            "userUrl": ""
+        },
+        "embedOptions": {}
+    },
+    "downloadFormats": {
+        "video": [
+            {
+                "quality": "360p",
+                "type": "",
+                "downloadUrl": "",
+                "width": 0,
+                "height": 0,
+                "fps": 0
+            }
+        ],
+        "audio": [
+            {
+                "type": "",
+                "audioBitRate": 0,
+                "downloadUrl": ""
+            }
+        ]
+    }
+}
